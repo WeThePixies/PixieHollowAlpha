@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1501031935,
+	"version": 1501273076,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -48,6 +48,8 @@
 		"images/placeholder-sheet0.png",
 		"images/phoverlay-sheet0.png",
 		"images/7dc6cbd7a7a14f3083eb96477271881d-sheet0.png",
+		"images/fairyconstellation-sheet0.png",
+		"media/fconstmusic.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
